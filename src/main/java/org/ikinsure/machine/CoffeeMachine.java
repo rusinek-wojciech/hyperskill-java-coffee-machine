@@ -1,4 +1,4 @@
-package org.ikinsure.easy.machine;
+package org.ikinsure.machine;
 import java.util.Scanner;
 
 public class CoffeeMachine {
